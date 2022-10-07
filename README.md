@@ -8,4 +8,5 @@
 
 
 
-[Patika](https://app.patika.dev/)
+[Patika.dev](https://app.patika.dev/)
+[Kodluyoruz.org](https://app.kodluyoruz.org/)
