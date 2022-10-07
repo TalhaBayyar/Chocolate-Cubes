@@ -1,0 +1,91 @@
+body{
+    background-color: bisque;
+}
+
+#Agread{
+    font-style: italic;
+    font-weight: bold;
+    
+}
+
+#Tarif{
+    font-weight: 400;
+}
+
+#content{
+    text-align: center;
+     
+}
+
+
+
+.info{
+    font-weight: bold;
+    color: red;
+    border-bottom: 3px;
+    border-bottom: 1px solid black;
+    
+    
+    
+}
+
+.info2{
+    border-bottom: 1px solid black;
+    color: black;
+   
+    
+    
+}
+
+
+
+#heading{
+   display: inline-block;
+   margin-left: 760px;
+   margin-top: 50px;
+}
+
+
+#NasilYapilir{
+    display: inline-block;
+    margin-left: 760px;
+    margin-top: 50px;
+}
+
+
+
+.malzeme{
+    background-color: red;
+    font-size: large;
+    color: aliceblue;
+    font-weight: bold;
+    
+}
+
+.MalzemeStyle{
+    font-weight: bold;
+}
+
+.NasilYapilirBaslik{
+    background-color: red;
+    font-size: large;
+    color: aliceblue;
+    font-weight: bold;
+    
+}
+.NasilYapilirStyle{
+    font-weight: bold;
+}
+
+#Afiyet{
+    display: inline-block;
+    text-align: center;
+    margin-left: 1600px;
+}
+
+.AfiyetOlsun{
+    color: black;
+    font-weight: bold;
+    
+
+}
