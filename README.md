@@ -7,4 +7,5 @@
 ![2022-10-07 (2)](https://user-images.githubusercontent.com/93201374/194487650-b1b73587-9c53-4921-a348-e5a3dfc544dd.png)
 
 
-[Patika][([https://duckduckgo.com "The best search engine for privacy"](https://app.patika.dev/)).](https://app.patika.dev/)
+
+[Duck Duck Go](https://app.patika.dev/)
