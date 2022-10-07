@@ -10,4 +10,4 @@
 
 [Patika.dev](https://app.patika.dev/)
 
-[Kodluyoruz.org](https://app.kodluyoruz.org/)
+[Kodluyoruz.org](https://kodluyoruz.org/tr/kodluyoruz/)
