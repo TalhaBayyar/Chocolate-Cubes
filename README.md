@@ -1,4 +1,4 @@
-# HTML Ödev 3 - Çikolata küpleri
+# Chocolate Cubes
 ### Bu repository'de Kodluyoruz.org ve Patika.dev işbirliğiyle, "Başlangıç Seviye Django ile Web Development Patikası" içerisinde bulunan "HTML" konusunun üçüncü ve son ödevini yaptım.
 
 
